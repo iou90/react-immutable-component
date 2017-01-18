@@ -1,0 +1,24 @@
+{
+  "name": "react-immutable-component",
+  "version": "0.0.1",
+  "description": "Optimizing react component performance with Immutable.js",
+  "main": "ImmutableComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iou90/react-immutable-component.git"
+  },
+  "keywords": [
+    "react",
+    "immutable",
+    "persistent"
+  ],
+  "author": "iou90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iou90/react-immutable-component/issues"
+  },
+  "homepage": "https://github.com/iou90/react-immutable-component#readme"
+}
